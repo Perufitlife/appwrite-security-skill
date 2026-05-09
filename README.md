@@ -2,7 +2,7 @@
 
 > Audit any Appwrite project for over-permissive collection/document permissions. Get a shareable HTML report with a fix snippet on every finding. **Active probe fetches data anonymously to PROVE leaks live — not just infer them.**
 
-> ⚡ Want me to run it for you and send back a written report? **$99, 24h delivery →** https://perufitlife.github.io/supabase-security-skill/ (one landing covers all four — Supabase, PocketBase, Appwrite, Hasura)
+> ⚡ Want me to run it for you and send back a written report? **$99, 24h delivery →** https://perufitlife.github.io/supabase-security-skill/ (one landing covers all five — Supabase, PocketBase, Appwrite, Hasura, Firebase)
 
 ## Why this exists
 
