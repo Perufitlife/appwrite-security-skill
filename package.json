@@ -7,9 +7,16 @@
     "appwrite-security": "./scripts/audit.js"
   },
   "scripts": {
-    "audit": "node scripts/audit.js"
+    "audit": "node scripts/audit.js",
+    "postinstall": "node scripts/postinstall.js || true"
   },
-  "keywords": ["appwrite", "security", "audit", "permissions", "rls"],
+  "keywords": [
+    "appwrite",
+    "security",
+    "audit",
+    "permissions",
+    "rls"
+  ],
   "author": "Renzo Madueno (@Perufitlife)",
   "license": "MIT",
   "repository": {
