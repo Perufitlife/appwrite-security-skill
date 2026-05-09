@@ -1,0 +1,22 @@
+{
+  "name": "appwrite-security",
+  "version": "0.1.0",
+  "description": "Audit Appwrite projects for over-permissive collection/document permissions. Detects 'any' role grants, open user role permissions, missing document-level scoping. Active probe confirms leaks live.",
+  "type": "module",
+  "bin": {
+    "appwrite-security": "./scripts/audit.js"
+  },
+  "scripts": {
+    "audit": "node scripts/audit.js"
+  },
+  "keywords": ["appwrite", "security", "audit", "permissions", "rls"],
+  "author": "Renzo Madueno (@Perufitlife)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Perufitlife/appwrite-security-skill"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
