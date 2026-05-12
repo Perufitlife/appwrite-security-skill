@@ -79,6 +79,10 @@ For Supabase, see https://github.com/Perufitlife/supabase-security-skill
 For PocketBase, see https://github.com/Perufitlife/pocketbase-security-skill
 
 
+## Integration pattern reference
+
+See [`rotatepilot-skyx-sandbox`](https://github.com/Perufitlife/rotatepilot-skyx-sandbox) for a live demo of how a partner consumes one of our public REST APIs in a single static page — built 12-may-2026 in response to an aviation-platform partnership inbound. Same JSON-contract / CORS / edge-served approach we use for `appwrite-security` integrations.
+
 ## Sister AI text tools
 
 If your team writes outreach, PR descriptions, or social posts with AI, the [aitells](https://aitells.vercel.app) ecosystem catches the fingerprints before they ship:
